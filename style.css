@@ -1,0 +1,45 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #957b7b;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .job {
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .job h2 {
+    margin-top: 0;
+  }
+  
+  .job p {
+    margin-bottom: 10px;
+  }
+  
+  .apply-btn {
+    display: inline-block;
+    background-color: #007bff;
+    color: #fff;
+    padding: 8px 16px;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .apply-btn:hover {
+    background-color: #0056b3;
+  }
